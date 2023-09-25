@@ -14,4 +14,8 @@ For this assignment, you will use the matplotlib library and seaborn to create d
 
 Correctly interpret the diagrams
 Submit the PNG files and source code file (notebook).
+https://colab.research.google.com/drive/1UPkf6psCzFEQEwxrUjeKiivPMKud4eBI#scrollTo=k4lIkgCesElF 
+
+
+PICs
 ![fuel_efficiency_vs_vehicle_type](https://github.com/Freedisch/Plotting-task/assets/82499435/e7cc7b0b-c7ee-4507-9dc4-184db7051e97)
